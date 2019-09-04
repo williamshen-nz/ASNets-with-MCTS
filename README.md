@@ -2,6 +2,9 @@
 
 Research project for COMP3770 at the Australian National University. 
 
+Published at the Symposium on Combinatorial Search 2019 as "[Guiding Search with Generalized Policies for Probabilistic Planning
+](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18334)"
+
 ## Abstract
 
 Planning is the essential ability of an intelligent agent to solve the problem of choosing which action to take in an environment to achieve a certain goal. Planning is an extremely important field within Artificial Intelligence that has countless real-world applications, including robotics and operations research.
